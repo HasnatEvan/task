@@ -59,7 +59,7 @@ const Footer = () => {
             </li>
             <li className="flex items-center space-x-2">
               <FaPhone className="text-lg" />
-              <span>020 4527 6474</span>
+              <span>020 4577 6474</span>
             </li>
           </ul>
         </div>

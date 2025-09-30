@@ -1,16 +1,38 @@
-# React + Vite
+# React + Vite + Tailwind CSS + React Icons + Netlify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built using **ReactJS**, with **Vite** as the development tool, **Tailwind CSS** for styling, **React Icons** for icons, and deployed on **Netlify**.
 
-Currently, two official plugins are available:
+🔗 Live Demo: [https://peaceful-gnome-d403bd.netlify.app/](https://peaceful-gnome-d403bd.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Fast development with **React 18** and **Vite**.
+- Responsive and modern design using **Tailwind CSS**.
+- Beautiful and customizable icons using **React Icons**.
+- Easy deployment with **Netlify**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **ReactJS** (Functional Components & Hooks)
+- **Vite** (Fast development & build tool)
+- **Tailwind CSS** (Utility-first CSS framework)
+- **React Icons** (Beautiful SVG icons)
+- **Netlify** (Deployment)
+
+---
+
+## ⚡ Installation
+
+Clone the project:
+
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+
+
+Install dependencies: npm install
+Start the development server:npm run dev
